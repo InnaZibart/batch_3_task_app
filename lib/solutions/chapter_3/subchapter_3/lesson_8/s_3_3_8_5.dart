@@ -5,6 +5,19 @@ bool isPalindrome(String input) {
   throw UnimplementedError();
 }
 
+void main() {}
+
+bool isPalidrome = true;
+String word = "Anna";
+
+bool isStringPalidrome(String word) {
+  for(int i=0; i < word.length/2; i++) {
+    pri
+  }
+}
+  if 
+}
+
 class S3385 extends StatefulWidget {
   const S3385({Key? key}) : super(key: key);
 
